@@ -2,4 +2,4 @@ tmp/*
 config/database.php
 config/core.php
 !empty
-/nbproject/private/
+nbproject/*
